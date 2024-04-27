@@ -1,0 +1,8 @@
+requests
+colorama
+threading
+datetime
+random
+json
+os
+getpass
