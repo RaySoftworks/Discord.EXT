@@ -1,5 +1,5 @@
-Discord.EXT
-================
+Discord.EXT V.2.0.0
+===================
 Based on: https://github.com/netgian/Discord-User-API
 
 ## Requirements
