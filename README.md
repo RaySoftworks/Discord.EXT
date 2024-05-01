@@ -43,4 +43,4 @@ When you install all requirements then you have to enter your discord token
 
 Then if token is valid you can use Discord.EXT
 
-![image](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/c68d84fe-9be7-49f5-a1d5-302d96d85b92)
+![image](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/3d14582b-3ba8-4321-ab23-669f85f6c82f)
