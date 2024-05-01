@@ -7,6 +7,6 @@ def set_custom_status(self, status: str) -> None:
     status = {"custom_status": {"text": status}}
     r = requests.patch(url, headers=self.HEADERS, json=status)
     if r.status_code in [200, 201, 204]:
-        print(c_res + f"{m_a} {self.username}Changed" + c_res)
+        print(CRESET + f"{MESSAGE_OK} {CGREEN}Status Has Been Changed To User: {CBLUE}{self.username}" + CRESET)
     else:
-        print(f"{msg_error}{self.username}{CRED} {r.text}" + c_res)
+        print(f"{MESSAGE_ERROR}{self.username}{CRED} {r.text}" + CRESET)

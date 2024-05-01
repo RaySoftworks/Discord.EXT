@@ -15,4 +15,4 @@ def delete_guilds(self, exceptions: list = []) -> None:
         else:
             url = f"https://discord.com/api/users/@me/guilds/{guild['id']}"
             requests.delete(url, headers=self.HEADERS, json={})
-    print(f"{self.username} | Deleted {total} guilds")
+    print(CRESET + f"{MESSAGE_OK} {CGREEN}Deleted {CYELLOW}{total} {CGREEN}Guilds To User: {CBLUE}{self.username}" + CRESET)

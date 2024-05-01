@@ -16,11 +16,11 @@ def clear_messages(self, channel_id: str) -> None:
                 r = requests.delete(url, headers=self.HEADERS)
                 print(r.status_code, r.text)
                 if r.status_code in [200, 201, 204]:
-                    print(CGREEN + f"{self.username} | Deleted message {message[0]['id']}" + {c_res})
+                    print(CGREEN + f"{self.username} | Deleted message {message[0]['id']}", {CRESET})
                     time.sleep(2)
                     total += 1
                 else:
                     print(r.status_code)
                     print(r.text)
         page += 1
-    print(CGREEN + f"{self.username} | Deleted {total} messages in {channel_id}" + {c_res})
+    print(CRESET + f"{MESSAGE_OK} {CGREEN}Deleted Messages {CYELLOW}{total} {CGREEN}In {CYELLOW}{channel_id} {CYELLOW}To User: {CBLUE}{self.username}" + CRESET)

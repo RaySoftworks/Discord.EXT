@@ -9,9 +9,9 @@ def change_status(self, status: str) -> None:
         payload = {"status": status}
         r = requests.patch(url, headers=self.HEADERS, json=payload)
         if r.status_code in [200, 201, 204]:
-            print(c_res + f"{m_a} {self.username}Changed" + c_res)
+            print(CRESET + f"{MESSAGE_OK} {CGREEN}Status Has Been Changed To User: {CBLUE}{self.username}" + CRESET)
         else:
-            print(CRED + f"{self.username} | Error: {r.text}" + c_res)
+            print(CRED + f"{self.username} | Error: {r.text}" + CRESET)
     else:
-        print(f"{msg_error}Invalid status: {CGREEN}{statuses}" + c_res)
+        print(f"{MESSAGE_ERROR}Invalid status: {CGREEN}{statuses}" + CRESET)
 

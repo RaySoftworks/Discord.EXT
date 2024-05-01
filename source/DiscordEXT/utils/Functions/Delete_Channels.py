@@ -1,5 +1,6 @@
 from utils.libs import *
 from utils.varables import *
+from utils.Functions.Get_User_Channels import *
 
 def delete_channels(self) -> None:
     """It will delete all the channels from the account"""
@@ -9,4 +10,4 @@ def delete_channels(self) -> None:
         r = requests.delete(url, headers=self.HEADERS)
         if r.status_code in [200, 201, 204]:
             total += 1
-    print(f"{self.username} | Deleted {total} channels")
+    print(CRESET + f"{MESSAGE_OK} {CGREEN}Deleted Channels {CYELLOW}{total} To User: {CBLUE}{self.username}" + CRESET)

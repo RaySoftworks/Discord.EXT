@@ -1,36 +1,52 @@
 from utils.libs import *
 
+#Colors
 CGREEN = colorama.Fore.GREEN
 CRED = colorama.Fore.RED
-c_cyan = colorama.Fore.CYAN
-c_blue = colorama.Fore.BLUE
-c_res = colorama.Fore.RESET
-VERSION = '2.0.0'
+CYELLOW = colorama.Fore.YELLOW
+CCYAN = colorama.Fore.CYAN
+CBLUE = colorama.Fore.BLUE
+CRESET = colorama.Fore.RESET
 
-m_a = (c_res + "(" + c_cyan + "+" + c_res + ")" + c_res)
-m_b = (c_res + "(" + c_blue + "~" + c_res + ")" + c_res)
-m_c = (c_res + "(" + CRED + "-" + c_res + ")" + c_res)
-U_in = (c_res + "(" + c_cyan + ">" + c_res + ") " + c_cyan)
-msg_error = (m_c + CRED + " Something Went Wrong" + c_res + " >>> ")
+VERSION = f"{CYELLOW}2.1{CRESET}"
 
+#Messages
+MESSAGE_OK = (CRESET + "(" + CCYAN + "+" + CRESET + ")" + CRESET)
+USER_INPUT = (CRESET + "(" + CCYAN + ">" + CRESET + ") " + CYELLOW)
+MESSAGE_INDIFFERENCE = (CRESET + "(" + CBLUE + "~" + CRESET + ")" + CRESET)
+MESSAGE_SUCCESS = (f"{CRESET}{MESSAGE_OK}{CGREEN} Success {CBLUE}({CRED}Press Any Key... {CCYAN}<{CRESET}2{CYELLOW}.{CRESET}0s{CCYAN}>{CBLUE}){CRESET}")
+
+#Error Messages
+MESSAGE_BAD = (CRESET + "(" + CRED + "-" + CRESET + ")" + CRESET)
+MESSAGE_ERROR = (MESSAGE_BAD + CRED + " Something Went Wrong" + CRESET + " > ")
+
+#Options
+TokenShow = None
+ShowTokenTrue = ["y", "Y", "Yes", "YES"]
+ExitOptions = ["0", "Exit", "exit", "Exot", "exot", "Expt", "expt"]
+
+#MenuSettings
+MenuEnable = True
+
+#Baner
 Baner = f"""
-{c_cyan}
 {VERSION}
+{CCYAN}
 _____________________________________________________  _____________  _________
 ___  __ \___  _/_  ___/_  ____/_  __ \__  __ \__  __ \ ___  ____/_  |/ /__  __/
 __  / / /__  / _____ \_  /    _  / / /_  /_/ /_  / / / __  __/  __    /__  /   
 _  /_/ /__/ /  ____/ // /___  / /_/ /_  _, _/_  /_/ /___  /___  _    | _  /    
-/_____/ /___/  /____/ \____/  \____/ /_/ |_| /_____/_(_)_____/  /_/|_| /_/       
-{c_cyan}─────────────────────────────────────────────────────────────────────────{c_res}
-{c_cyan}[1] Quick Mode
-{c_cyan}[2] Delete Messages
-{c_cyan}[3] Delete Guilds
-{c_cyan}[4] Delete Channels
-{c_cyan}[5] Delete Friends       
-{c_cyan}[6] Set Bio
-{c_cyan}[7] Set Status
-{c_cyan}[8] Set Own Status
-{c_cyan}[{CRED}0{c_cyan}] {CRED}EXIT
-{c_cyan}─────────────────────────────────────────────────────────────────────────{c_res}         
-{c_res}
+/_____/ /___/  /____/ \____/  \____/ /_/ |_| /_____/_{CYELLOW}(_){CCYAN}_____/  /_/|_| /_/       
+{CCYAN}─────────────────────────────────────────────────────────────────────────{CRESET}
+{CCYAN}[{CYELLOW}1{CCYAN}] Quick Mode
+{CCYAN}[{CYELLOW}2{CCYAN}] Delete Messages
+{CCYAN}[{CYELLOW}3{CCYAN}] Delete Guilds
+{CCYAN}[{CYELLOW}4{CCYAN}] Delete Channels
+{CCYAN}[{CYELLOW}5{CCYAN}] Delete Friends       
+{CCYAN}[{CYELLOW}6{CCYAN}] Set Bio
+{CCYAN}[{CYELLOW}7{CCYAN}] Set Status
+{CCYAN}[{CYELLOW}8{CCYAN}] Set Own Status
+{CCYAN}[{CRED}0{CCYAN}] {CCYAN}EXIT
+{CCYAN}─────────────────────────────────────────────────────────────────────────{CRESET}
+         
 """
