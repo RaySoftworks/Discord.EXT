@@ -2,6 +2,30 @@ Discord.EXT V.2.0.0
 ===================
 Based on: https://github.com/netgian/Discord-User-API
 
+## Changelog
+VERSION 2.1
+
+# Improved
+
+# Added More Program Exit Options
+# Added More Comments To Code
+# Added Library Checker
+# Better End Prompts
+# Cleared Code
+
+==================================
+
+# Fixes
+# Fixed Auto Delete Success Message
+# Fixed Delete Channels Option
+# Fixed Delete Message Option
+# Fixed Delete Friends Option
+# Fixed Delete Guilds Option
+# Fixed Valid_Token Prompt
+# Fixed Showing Token
+
+
+
 ## Requirements
 First of all install the libraries at requirements.txt
 ```
