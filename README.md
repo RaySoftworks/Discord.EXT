@@ -39,7 +39,8 @@ pip3 install -r requirements.txt
 
 ## Tutorial
 When you install all requirements then you have to enter your discord token
-![image](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/a1318d9e-d701-4cdd-a195-04ece523120d)
+![image](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/04929c65-ca86-4731-9886-48aa951e6103)
+
 
 Then if token is valid you can use Discord.EXT
 
