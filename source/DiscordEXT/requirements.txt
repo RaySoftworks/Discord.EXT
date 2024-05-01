@@ -2,7 +2,7 @@ requests
 colorama
 threading
 datetime
+getpass
 random
 json
 os
-getpass
