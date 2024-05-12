@@ -5,7 +5,7 @@ Discord.EXT V.2.1.0 🍌
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
-[![Patch Notes](https://img.shields.io/badge/Patch-Notes-brightgreen.svg?style=shields)](http://github.com/RaySoftworks/Discord.EXT/blob/main/PatchNotes.md)
+[![Patch Notes](https://img.shields.io/badge/Changelog-2.1-violet.svg?style=shields)](http://github.com/RaySoftworks/Discord.EXT/blob/main/PatchNotes.md)
 ![GitHub issues](https://img.shields.io/github/issues/RaySoftworks/Discord.EXT)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/RaySoftworks/Discord.EXT/pulls)
 ![Latest Relase](https://img.shields.io/github/v/release/RaySoftworks/Discord.EXT)
