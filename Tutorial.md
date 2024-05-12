@@ -1,7 +1,7 @@
 ## Tutorial
 
 ## Requirements
-Open Terminal And Type:
+Open Terminal Inside Discord.EXT Path And Type:
 ![ReqInstall](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/a3c1d406-788e-4bb7-b624-21e4f6f979b5)
 ```
 pip3 install -r requirements.txt
