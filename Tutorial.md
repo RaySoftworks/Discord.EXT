@@ -6,6 +6,12 @@ Open Terminal Inside Discord.EXT Path And Type:
 ```
 pip3 install -r requirements.txt
 ```
+Or:
+Run setup.bat
+```
+![image](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/e8355e92-64af-4058-8781-0d4065568a52)
+```
+
 
 
 When You Install All Requirements Enter Your Discord Token:
