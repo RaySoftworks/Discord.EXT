@@ -1,4 +1,20 @@
-## Latest Version 2.1.0
+## VERSION 2.1.2 | Latest
+
+# Improved
+
+# Added Dump User Info Option
+# Optimized Code
+
+==================================
+
+# Fixes
+
+# Fixed Tutorial
+# Fixed Github README.MD
+
+=================================
+
+## Version 2.1.0
 
 # Improved
 
