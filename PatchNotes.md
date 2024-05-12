@@ -16,3 +16,10 @@
 - Fixed Delete Guilds Option
 - Fixed Valid_Token Prompt
 - Fixed Showing Token
+
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 2.1.0   | :white_check_mark: |
+| 2.0.0   | :x:                |
+|  ...    | :x:                |
