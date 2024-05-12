@@ -21,7 +21,8 @@ Discord.EXT 🍌
 - [![MacOS](https://img.shields.io/badge/MacOS-red.svg?style=shields)](https://www.apple.com/am/macos/ventura/)
 - [![LinuxP](https://img.shields.io/badge/Linux-yellow.svg?style=shields)](https://www.linux.org/pages/download/)
 
-![image](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/3d14582b-3ba8-4321-ab23-669f85f6c82f)
+![image](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/93f9afb0-e98e-47a1-8c15-23fc97d2a76c)
+
 
 | Version | Supported          |
 | ------- | ------------------ |
