@@ -5,7 +5,7 @@ Discord.EXT V.2.1.0 🍌
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
-![GitHub issues](https://github.com/RaySoftworks/Discord.EXT/issues)
+![GitHub issues](https://img.shields.io/github.com/RaySoftworks/Discord.EXT/issues)
 ![GitHub pull requests](https://github.com/RaySoftworks/Discord.EXT/pulls)
 ![Maintenance](https://img.shields.io/maintenance/no/2024)
 
