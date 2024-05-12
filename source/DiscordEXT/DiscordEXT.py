@@ -1,4 +1,7 @@
 #Imports
+import os
+import time
+
 from utils.libs import *
 from utils.varables import *
 
@@ -20,15 +23,19 @@ class EXT:
     #ImportFunctions
     from utils.Functions.Get_User_Channels import get_user_channels
     from utils.Functions.Set_Custom_Status import set_custom_status
+    from utils.Functions.Get_Payments_Status import get_payments
     from utils.Functions.Delete_Channels import delete_channels
     from utils.Functions.Clear_Messages import clear_messages
     from utils.Functions.Delete_Friends import delete_friends
     from utils.Functions.Change_Status import change_status
     from utils.Functions.Delete_Guilds import delete_guilds
+    from utils.Functions.Get_Gifts_Status import get_gifts
+    from utils.Functions.Get_Nitro_Status import get_nitro
     from utils.Functions.Get_Messages import get_messages
     from utils.Functions.Get_Friends import get_friends
     from utils.Functions.Get_Guilds import get_guilds
     from utils.Functions.Quick_Mode import QuickMode
+    from utils.Functions.Dump_Info import dump_info
     from utils.Functions.Set_Bio import set_bio
 
     def __init__(self, token):
@@ -36,7 +43,7 @@ class EXT:
         self.session = Session()
         self.session.headers = {"authorization": self.token, "content-type": "application/json"}
 
-        #self.api = "https://discord.com/api"
+        self.api = "https://discord.com/api"
         self.token = token
         self.username = None
         self.id = None
@@ -146,12 +153,18 @@ while MenuEnable == True:
             input(MESSAGE_SUCCESS)
             time.sleep(2)
             os.system("cls")
+        if UCC == "9":
+            user.dump_info()
+            input(MESSAGE_SUCCESS)
+            time.sleep(2)
+            os.system("cls")
         #ExitOptions
         if UCC.lower() in ExitOptions:
             os.system("cls")
             MenuEnable = False
         else:
             os.system("cls")
+
     if TokenShow == False:
         #QuickMode
         if UCC == "1":
@@ -209,6 +222,11 @@ while MenuEnable == True:
         if UCC == "8":
             userx.change_status(status=input(
                 f'{USER_INPUT} {CRESET}["{CCYAN}online{CRESET}", "{CCYAN}idle{CRESET}", "{CCYAN}dnd{CRESET}", "{CCYAN}invisible{CRESET}"]{CRESET}: '))
+            input(MESSAGE_SUCCESS)
+            time.sleep(2)
+            os.system("cls")
+        if UCC == "9":
+            userx.dump_info()
             input(MESSAGE_SUCCESS)
             time.sleep(2)
             os.system("cls")

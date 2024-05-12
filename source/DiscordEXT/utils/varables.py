@@ -8,7 +8,7 @@ CCYAN = colorama.Fore.CYAN
 CBLUE = colorama.Fore.BLUE
 CRESET = colorama.Fore.RESET
 
-VERSION = f"{CYELLOW}2.1{CRESET}"
+VERSION = f"{CYELLOW}2.1.2{CRESET}"
 
 #Messages
 MESSAGE_OK = (CRESET + "(" + CCYAN + "+" + CRESET + ")" + CRESET)
@@ -46,6 +46,7 @@ _  /_/ /__/ /  ____/ // /___  / /_/ /_  _, _/_  /_/ /___  /___  _    | _  /
 {CCYAN}[{CYELLOW}6{CCYAN}] Set Bio
 {CCYAN}[{CYELLOW}7{CCYAN}] Set Status
 {CCYAN}[{CYELLOW}8{CCYAN}] Set Own Status
+{CCYAN}[{CYELLOW}9{CCYAN}] Dump User Info
 {CCYAN}[{CRED}0{CCYAN}] {CCYAN}EXIT
 {CCYAN}─────────────────────────────────────────────────────────────────────────{CRESET}
          
