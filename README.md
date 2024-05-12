@@ -6,8 +6,8 @@ Discord.EXT V.2.1.0 🍌
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 ![GitHub issues](https://img.shields.io/github/issues/RaySoftworks/Discord.EXT)
-![GitHub pull requests](https://github.com/RaySoftworks/Discord.EXT/pulls)
-![Maintenance](https://img.shields.io/maintenance/no/2024)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/RaySoftworks/Discord.EXT/pulls)
+![Maintenance](https://img.shields.io/maintenance/Yes/2024)
 
 [Have a feature suggestion? Make one here!](https://github.com/the-cult-of-integral/discord-raidkit/discussions/categories/ideas)
 
