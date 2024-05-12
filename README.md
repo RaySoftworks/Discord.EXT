@@ -5,9 +5,9 @@ Discord.EXT V.2.1.0 🍌
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
-![GitHub issues](https://img.shields.io/github/issues/the-cult-of-integral/discord-raidkit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/9P9/Discord-QR-Token-Logger)
-![Maintenance](https://img.shields.io/maintenance/yes/2023)
+![GitHub issues](https://github.com/RaySoftworks/Discord.EXT/issues)
+![GitHub pull requests](https://github.com/RaySoftworks/Discord.EXT/pulls)
+![Maintenance](https://img.shields.io/maintenance/no/2024)
 
 [Have a feature suggestion? Make one here!](https://github.com/the-cult-of-integral/discord-raidkit/discussions/categories/ideas)
 
