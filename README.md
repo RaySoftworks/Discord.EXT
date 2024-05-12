@@ -8,7 +8,7 @@ Discord.EXT 🍌
 ![GitHub issues](https://img.shields.io/github/issues/RaySoftworks/Discord.EXT)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/RaySoftworks/Discord.EXT/pulls)
 ![Latest Relase](https://img.shields.io/github/v/release/RaySoftworks/Discord.EXT)
-[![Patch Notes](https://img.shields.io/badge/Changelog-2.1-cyan.svg?style=shields)](http://github.com/RaySoftworks/Discord.EXT/blob/main/PatchNotes.md)
+[![Patch Notes](https://img.shields.io/badge/Changelog-2.1-yellow.svg?style=shields)](http://github.com/RaySoftworks/Discord.EXT/blob/main/PatchNotes.md)
 ![License](https://img.shields.io/github/license/RaySoftworks/Discord.EXT)
 ![Maintenance](https://img.shields.io/maintenance/Yes/2024)
 
