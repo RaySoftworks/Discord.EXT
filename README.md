@@ -23,10 +23,9 @@ pip3 install -r requirements.txt
 
 ## Supported OS:
 
-[![Patch Notes](https://img.shields.io/badge/Windows-yellow.svg?style=shields)](http://github.com/RaySoftworks/Discord.EXT/blob/main/PatchNotes.md)
-- Windows
-- Linux
-- MacOS
+- [![WindowsP](https://img.shields.io/badge/Windows-blue.svg?style=shields)]
+- [![LinuxP](https://img.shields.io/badge/Linux-yellow.svg?style=shields)]
+- [![MacOS](https://img.shields.io/badge/MacOS-pink.svg?style=shields)]
 
 
 ## Tutorial
