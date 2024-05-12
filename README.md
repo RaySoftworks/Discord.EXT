@@ -12,28 +12,6 @@ Discord.EXT V.2.1.0 🍌
 [Have a feature suggestion? Make one here!](https://github.com/the-cult-of-integral/discord-raidkit/discussions/categories/ideas)
 
 
-## Changelog
-- VERSION 2.1
-
-# Improved
-
-- Added More Program Exit Options
-- Added More Comments To Code
-- Added Library Checker
-- Better End Prompts
-- Cleared Code
-
-# Fixes
-- Fixed Auto Delete Success Message
-- Fixed Delete Channels Option
-- Fixed Delete Message Option
-- Fixed Delete Friends Option
-- Fixed Delete Guilds Option
-- Fixed Valid_Token Prompt
-- Fixed Showing Token
-
-
-
 ## Requirements
 First of all install the libraries at requirements.txt
 ```
