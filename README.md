@@ -33,3 +33,9 @@ When you install all requirements then you have to enter your discord token
 Then if token is valid you can use Discord.EXT
 
 ![image](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/3d14582b-3ba8-4321-ab23-669f85f6c82f)
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 2.1.0   | :white_check_mark: |
+| 2.0.0   | :x:                |
+|  ...    | :x:                |
