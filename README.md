@@ -24,8 +24,8 @@ pip3 install -r requirements.txt
 ## Supported OS:
 
 - ![WindowsP](https://img.shields.io/badge/Windows-blue.svg?style=shields)
-- ![LinuxP](https://img.shields.io/badge/Linux-yellow.svg?style=shields)
 - ![MacOS](https://img.shields.io/badge/MacOS-red.svg?style=shields)
+- ![LinuxP](https://img.shields.io/badge/Linux-yellow.svg?style=shields)
 
 
 ## Tutorial
