@@ -1,8 +1,8 @@
 Discord.EXT 🍌
 ===================
 
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
+[![forthebadge](https://forthebadge.com/images/badges/made-in-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](https://forthebadge.com)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
