@@ -1,3 +1,3 @@
 @echo off
-python DiscordEXT.py
+python DiscordEXIT.py
 pause
