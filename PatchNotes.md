@@ -2,15 +2,15 @@
 
 # Improved
 
-# Added Dump User Info Option
-# Optimized Code
+- Added Dump User Info Option
+- Optimized Code
 
 ==================================
 
 # Fixes
 
-# Fixed Tutorial
-# Fixed Github README.MD
+- Fixed Tutorial
+- Fixed Github README.MD
 
 =================================
 
