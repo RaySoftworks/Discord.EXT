@@ -6,6 +6,7 @@ Discord.EXT 🍌
 [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](https://forthebadge.com)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
+[![WindowsP](https://img.shields.io/badge/Tutorial-violet.svg?style=shields)](https://github.com/RaySoftworks/Discord.EXT/blob/main/Tutorial.md)
 ![GitHub issues](https://img.shields.io/github/issues/RaySoftworks/Discord.EXT)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/RaySoftworks/Discord.EXT/pulls)
 ![Latest Relase](https://img.shields.io/github/v/release/RaySoftworks/Discord.EXT)
@@ -13,8 +14,6 @@ Discord.EXT 🍌
 ![License](https://img.shields.io/github/license/RaySoftworks/Discord.EXT)
 ![Maintenance](https://img.shields.io/maintenance/Yes/2024)
 
-## Check Out Tutorial:
-- [![WindowsP](https://img.shields.io/badge/Windows-violet.svg?style=shields)](https://github.com/RaySoftworks/Discord.EXT/blob/main/Tutorial.md)
 
 ## Supported OS:
 
