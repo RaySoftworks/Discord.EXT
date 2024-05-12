@@ -1,6 +1,9 @@
 Discord.EXT V.2.1.0 🍌
 ===================
-Based on: https://github.com/netgian/Discord-User-API
+
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
+
 
 ## Changelog
 - VERSION 2.1
