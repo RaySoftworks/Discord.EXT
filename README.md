@@ -1,4 +1,4 @@
-Discord.EXT V.2.1.0 🍌
+Discord.EXT 🍌
 ===================
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
