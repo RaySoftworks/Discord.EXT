@@ -1,4 +1,4 @@
-Discord.EXT 🍌
+DiscordEXIT 🦌
 ===================
 
 [![forthebadge](https://forthebadge.com/images/badges/made-in-python.svg)](https://forthebadge.com)
