@@ -23,10 +23,11 @@ DiscordEXIT 🦌
 
 ![image](https://github.com/RaySoftworks/Discord.EXT/assets/130923455/93f9afb0-e98e-47a1-8c15-23fc97d2a76c)
 
+I know about a lot of issues so there are no longer any relased version supported when i have time i give an update 
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.1.2   | :white_check_mark: |
-| 2.1.0   | :white_check_mark: |
+| 2.1.2   | :x:                |
+| 2.1.0   | :x:                |
 | 2.0.0   | :x:                |
 |  ...    | :x:                |
